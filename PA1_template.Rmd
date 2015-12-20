@@ -1,6 +1,4 @@
----
-title: "Assignment 1"
-output: html_document
+Assignment 1
 ---
 
 This assignment makes use of data from a personal activity monitoring device. 
